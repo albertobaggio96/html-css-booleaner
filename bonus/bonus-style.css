@@ -29,6 +29,12 @@ header h1{
   color: #20A9E5;
 }
 
+.write-by span:hover{
+  cursor: pointer;
+  font-size: 18px;
+  transition-duration: 0.30s;
+}
+
 .under-size{
   font-size: 12px;
   margin-bottom: 15px;
@@ -36,6 +42,14 @@ header h1{
 
 p span{
   background-color: #FFFF00;
+  font-style: italic;
+}
+
+p span:hover{
+  text-decoration: underline;
+  font-weight: bolder;
+  font-size: 17px;
+  transition-duration: 1s; 
 }
 
 table{
