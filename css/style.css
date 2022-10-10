@@ -38,3 +38,18 @@ p span{
   background-color: #FFFF00;
 }
 
+table{
+  table-layout: fixed;
+  width: 100%;
+  border-spacing: 0;
+}
+
+th{
+  background-color: #20A9E5;
+  color: white;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #B1E5F2;
+}
+
