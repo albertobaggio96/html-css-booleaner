@@ -11,3 +11,24 @@
   bottom: 5%;
   left: 10px;
 }
+
+header h1{
+  font-size: 3rem;
+  margin-bottom: 0;
+}
+
+.write-by{
+  font-weight: bold;
+}
+
+.gray{
+  color: #808080;
+}
+
+.write-by span{
+  color: #20A9E5;
+}
+
+.under-size{
+  font-size: 12px;
+}
